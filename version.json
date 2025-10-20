@@ -1,0 +1,11 @@
+{
+  "id": "vault-level",
+  "name": "Vault Level",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Track your vault progress with gamification elements",
+  "author": "kohichiwa",
+  "authorUrl": "https://github.com/kohichiwa",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
