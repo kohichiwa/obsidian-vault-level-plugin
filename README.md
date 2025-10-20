@@ -65,7 +65,7 @@ The plugin seamlessly integrates with your Obsidian theme. The level card featur
 
 ## 📱 Screenshots
 
-*(Your beautiful level card will appear here with animated progress bars and statistics)*
+<img width="620" height="700" alt="Frame 16" src="https://github.com/user-attachments/assets/3a665db2-c86a-450f-b423-b12dc215d55c" />
 
 ## 🔧 Technical Details
 
