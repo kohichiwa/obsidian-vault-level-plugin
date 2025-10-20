@@ -1,0 +1,16 @@
+{
+  "level": 1,
+  "currentXP": 0,
+  "totalXP": 0,
+  "nextLevelXP": 100,
+  "streak": 0,
+  "lastActivityDate": null,
+  "stats": {
+    "totalNotes": 0,
+    "totalConnections": 0,
+    "totalTags": 0,
+    "totalWords": 0,
+    "totalFiles": 0
+  },
+  "lastUpdated": 0
+}

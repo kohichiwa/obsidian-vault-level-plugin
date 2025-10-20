@@ -1,0 +1,48 @@
+/* Vault Level Tracker Styles */
+.vault-level-modal .modal {
+    max-width: 500px;
+    height: 500px;
+}
+
+.vault-level-modal .modal-content {
+    height: 500px !important;
+}
+
+.vault-level-container {
+    height: 100% !important;
+}
+
+/* Progress bar animation */
+.progress-bar-fill {
+    animation: progressGrow 0.8s ease-out;
+    left: 0 !important;
+    transform: none !important;
+}
+
+@keyframes progressGrow {
+    from {
+        width: 0% !important;
+    }
+}
+
+/* Level badge animations */
+.level-badge {
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-3px); }
+}
+
+/* Responsive design */
+@media (max-width: 480px) {
+    .vault-level-modal .modal {
+        max-width: 400px;
+        height: 450px;
+    }
+    
+    .vault-level-modal .modal-content {
+        height: 450px !important;
+    }
+}
